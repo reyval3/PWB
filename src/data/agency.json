@@ -1,0 +1,237 @@
+{
+  "header": {
+    "title": "SMK CIPTA SKILL",
+    "subtitle": "'MAKE A BRILLIANT FUTURE'",
+    "srcImage": "images/agency-logo.png"
+  },
+
+  "navbar": {
+    "brand": "<span class='text-primary'>Cipta</span> Skill",
+    "srcLogo": "images/agency-logo-small.png",
+    "menuOptions": [
+      {
+        "id": "about",
+        "label": "Tentang",
+        "icon": "fa-solid fa-file"
+      },
+      {
+        "id": "headmaster",
+        "label": "Kepala Sekolah",
+        "icon": "fa-solid fa-file"
+      },
+      {
+        "id": "services",
+        "label": "visi & misi",
+        "icon": "fa-solid fa-wrench"
+      },
+      {
+        "id": "portfolio",
+        "label": "Cipta News",
+        "icon": "fa-solid fa-camera"
+      },
+      {
+        "id": "team",
+        "label": "alumni",
+        "icon": "fa-solid fa-user"
+      }
+    ]
+  },
+
+  "about": {
+    "id": "about",
+    "title": "Tentang kita",
+    "content": {
+      "image": "images/agency-logo.png",
+      "paragraphs": [
+        "SMK CIPTA SKILL Bandung merupakan salah satu sekolah menengah kejuruan yang Ber-Standar Industri, SMK CIPTA SKILL Bandung  berdiri pada tanggal 25 Mei 2009 di bawah naungan Yayasan Cipta Skill Edutama.",
+        "Pertama kali berlokasi di jalan Cikutra Baru raya No. 28 Neglasari Bandung, dengan Program Keahlian pertama kali yakni :",
+        "<ul> <li>Farmasi</li> <li>Teknik Kendaraan Ringan</li> <li>Teknik Sepeda Motor</li> <li>Rekayasa Perangkat Lunak</li> <li>Teknik Komputer dan Jaringan</li> </ul>",
+        "Pada tahun 2011 dibukanya program keahlian Administrasi Perkantoran, dilanjut pada tahun 2014 dibuka Program Keahlian Perbankan, dan pada 2017 dibuka program keahlian Tataboga.",
+        "pada tahun 2012 Bulan Agustus lokasi gedung sekolah berpindah dan menempati gedung sendiri yang berada di Jalan. Brigjend Katamso,TRS-Cisokan Sukaluyu I No. 1 Bandung hingga saat ini, dan seluruh Program Keahlian telah memiliki Akreditasi 'A' (Amat Baik).",
+        "Serta sampai saat ini sudah ada ribuan lulusan SMK CIPTA SKILL Bandung yang bekerja, Baik sebagai PNS, TNI, POLRI maupun perusahaan swasta, ada juga lulusan yang berwirausaha dan juga berkuliah."
+      ]
+    }
+  },
+  "headmaster" : {
+    "id": "headmaster",
+    "title": "Sambutan Kepala sekolah",
+    "content": {
+      "image": "images/Kepalasekolah.png",
+      "paragraphs" : [
+        "Assalammualaikum Warahmatullahi Wabarakatuh",
+        "Salam Sejahtera untuk kita semua",
+        "Vokasi Kuat Menguatkan Indonesia",
+        "SMK Bisa, SMK Hebat,",
+        "Selamat datang di SMK-CIPTA SKILL Bandung, Kami merasa sangat bangga mendapatkan perhatian dan kepercayaan dari Bapak-Ibu sekalian. Kami akan berupaya untuk dapat menjalankan amanah ini dengan baik agar pertanggung jawaban di hadapan Allah SWT kelak menjadi ringan.",
+        "Di sini kami mengajak anda para orang tua siswa untuk berpartisipasi membangun masyarakat pembelajar dalam rangka menyongsong era baru bagi anak-anak kita dan menjadikan anak-anak kita generasi yang mampu berkompetisi tanpa kehilangan wajah budaya dan moral.",
+        "Memasuki pergaulan global yang penuh dengan kompetisi ini, kita perlu menyiapkan mental anak-anak kita agar mampu bersaing dengan baik dengan memiliki moral/adab islami, kemandirian, kecerdasan, juga  tentunya kreatifitas-inovasi sesuai tumbuh kembangnya.",
+        "Wasalam",
+        "Kepala SMK-CIPTA SKILL."
+      ]
+    }
+  },
+
+  "services": {
+    "id": "services",
+    "title": "Visi & Misi",
+    "items": [
+      {
+        "title": "Visi",
+        "icon": "fa-brands fa-vuejs",
+        "description": "'Menjadi Sekolah Menengah Kejuruan Berbasis Industri dan Entrepreneur Berskala Global'"
+      },
+
+      {
+        "title": "Misi",
+        "icon": "fa-solid fa-laptop",
+        "description": " <li>Meningkatkan kompotensi lulusan melalui model pembelajaran Teaching Factory (TeFa)</li> <li>Reorentasi lulusan dari mencari pekerjaan (Job Seeker), menjadi menciptakan pekerjaan (Job Creator)</li> <li>Membentuk lulusan berkarakter budaya industri dan kecakapan Abad Ke-21</li>"
+      }
+    ]
+  },
+
+  "portfolio": {
+    "id": "portfolio",
+    "title": "Cipta News",
+    "projects": [
+      {
+        "title": "Salah Satu Siswi SMK CIPTA SKILL berhasil meraih juara O2SN",
+        "category": "Prestasi Siswa/Siswi",
+        "srcImage": "images/portfolio/portfolio-1.png",
+        "description": [
+          "Bandung - Seorang pelajar SMK CIPTA SKILL berhasil meraih juara tiga dalam sebuah perlombaan O2SN SMK se Kota Bandung yang diadakan secara Offline. Djuanita Amanda Putri, siswi kelas 10 Konsentrasi Keahlian Farmasi dari SMK Cipta Skill Bandung, berhasil mengalahkan peserta-peserta dari berbagai Sekolah SMK Negri Maupun Swasta di ajang lomba tersebut. Cabang Per-Lomba yang diikuti oleh Djuanita adalah Cabang Olahraga Bulutangkis yang diadakan di di SMK Negri 3 Bandung. Djuanita berhasil menumbangkan semua lawan yang berasal dari SMK Negri Maupun swasta. Prestasinya ini membuat Djuanita menjadi satu-satunya peserta dari SMK swasta kota bandung yang mendapatkan gelar juara.",
+          "Dalam wawancara singkatnya, Djuanita mengatakan bahwa ia sangat senang dan bangga atas pencapaiannya ini. 'Saya tidak pernah berpikir bahwa saya bisa menang dalam lomba ini. Saya hanya berusaha semaksimal mungkin dan berdoa agar bisa mencapai hasil terbaik,' ujarnya. Kepala Sekolah SMK CIPTA SKILL, Bapak Drs. Jalasma, juga merasa bangga atas prestasi Djuanita. 'Kami sangat bangga memiliki siswa seperti Djuanita di sekolah kami. Prestasinya ini adalah bukti nyata bahwa siswa SMK CIPTA SKILL memiliki potensi yang sangat besar dan bisa bersaing di kancah Nasional,' katanya.",
+          "Diharapkan dengan prestasi yang diraih oleh Djuanita, dapat menginspirasi Siswa Siswi lain di SMK Cipta Skill untuk terus berusaha dan berprestasi di bidang yang diminatinya. Selamat atas prestasinya, Djuanita!"
+        ]
+      },
+
+      {
+        "title": "Realisasi Penandatangan MOU SMK CIPTA SKILL Bandung dengan NEO Hotel By Aston",
+        "category": "Memorandum of Understanding",
+        "srcImage": "images/portfolio/portfolio-2.png",
+        "description": [
+          "Pada hari Selasa, 10 Januari 2023, SMK CIPTA SKILL Bandung Melaksanakan Pertemuan antara kepala sekolah SMK CIPTA SKILL Bandung Bapak Drs. Jalasman dengan Pimpinan NEO HOTEL atas nama dalam rangka realisasi penandatanganan MOU (Memorandum of Understanding).",
+          "Pertemuan antara dua pemimpin perusahaan berlangsung di Meeting Room Cinnamon Syari'ah Hotel yang beralamatkan Jl. Dr. Setiabudi No. 300 Bandung, pertemuan berjalan dengan lancar dan tertib dengan hasil yang memuaskan kedua belah pihak, Lalu SMK SKILL Bandung Berterimakasih pada pihak CINNAMON Hotel atas sambutannya yang hangat dan penuh rasa kekeluargaan.",
+          "Maka dari itu dengan menghasilkan keputusan bahwa CINNAMON Hotel menerima proposal pengajuan kerja sama MOU yang akan belangsung selama 3 (tiga) Tahun, dengan hal tersebut maka SMK CIPTA SKILL Resmi menjalin kerja sama dengan CINNAMON Hotel dengan salah satu kerja sama yang akan dilakukan yakni : Praktek Kerja Industri (Prakerin), Kunjugan Industri dan kerja sama kerja sama yang saling membangun kedua belah pihak lainnya"
+      ]
+      },
+
+      {
+        "title": "Realisasi Penandatangan SMK CIPTA SKILL Bandung dengan JAYAKARTA Hotel and Resort",
+        "category": "Memorandum of Understanding",
+        "srcImage": "images/portfolio/portfolio-3.png",
+        "description": [
+          "Pada hari Selasa, 10 Januari 2023, SMK CIPTA SKILL Bandung Melaksanakan Pertemuan antara kepala sekolah SMK CIPTA SKILL Bandung Bapak Drs. Jalasman dengan Pimpinan JAYAKARTA Hotel and Resort atas nama Bapak Oyib Ferdianyah, M.Pd. (HRM) dalam rangka realisasi penandatanganan MOU (Memorandum of Understanding).",
+          "Pertemua antara dua pemimpin perusahaan berlangsung di Resto Tataboga SMK CIPTA SKILL Bandung yang beralamat Jln. Brigjend Katamso,Trs-Cisokan Sukaluyu I No.1 Bandung, pertemuan berjalan dengan lancar dan tertib dengan hasil yang memuaskan kedua belah pihak, Lalu SMK SKILL Bandung Berterimakasih pada pihak JAYAKARTA Hotel atas Kedatangan nya yang kita sambut dengan hangat dan penuh rasa kekeluargaan.",
+          "Maka dari itu dengan menghasilkan keputusan bahwa Jayakarta Hotel menerima porposal pengajuan kerja sama MOU yang akan belangsung selama 3 (tiga) Tahun, dengan hal tersebut maka SMK CIPTA SKILL Resmi menjalin kerja sama dengan Jayakarta Hotel dengan salah satu kerja sama yang akan dilakukan yakni : Pratik Kerja Lapangan (Prakerin), Kunjugan Industri dan kerja sama kerja sama yang saling membangun kedua belah pihak lainnya"
+      ]
+      },
+
+      {
+        "title": "Realisasi Penandatangan MOU SMK CIPTA SKILL Bandung dengan Hotel Cinnamon Syari'ah Hotel",
+        "category": "Memorandum of Understanding",
+        "srcImage": "images/portfolio/portfolio-4.png",
+        "description": [
+          "Pada hari Selasa, 10 Januari 2023, SMK CIPTA SKILL Bandung Melaksanakan Pertemuan antara kepala sekolah SMK CIPTA SKILL Bandung Bapak Drs. Jalasman dengan Pimpinan CINNAMON Syari'ah Hotel atas nama Ibu SILVI OKTAVIANI (HRM) dan Bapak Widi dalam rangka realisasi penandatanganan MOU (Memorandum of Understanding).",
+          "Pertemuan antara dua pemimpin perusahaan berlangsung di Meeting Room Cinnamon Syari'ah Hotel yang beralamatkan Jl. Dr. Setiabudi No. 300 Bandung, pertemuan berjalan dengan lancar dan tertib dengan hasil yang memuaskan kedua belah pihak, Lalu SMK SKILL Bandung Berterimakasih pada pihak CINNAMON Hotel atas sambutannya yang hangat dan penuh rasa kekeluargaan.",
+          "Maka dari itu dengan menghasilkan keputusan bahwa CINNAMON Hotel menerima proposal pengajuan kerja sama MOU yang akan belangsung selama 3 (tiga) Tahun, dengan hal tersebut maka SMK CIPTA SKILL Resmi menjalin kerja sama dengan CINNAMON Hotel dengan salah satu kerja sama yang akan dilakukan yakni : Praktek Kerja Industri (Prakerin), Kunjugan Industri dan kerja sama kerja sama yang saling membangun kedua belah pihak lainnya"
+      ]
+      },
+
+      {
+        "title": "Penyaluran Bantuan Sosial Untuk Korban Bencana Cianjur",
+        "category": "Bakti Sosial",
+        "srcImage": "images/portfolio/portfolio-5.png",
+        "description": [
+          "SMK CIPTA SKILL Bandung bekerja sama dengan  Indonesian Starlet Club (ISC) dan Ikatan Apoteker Indonesia (IAI), Melaksanakan bakti sosial yakni pengalangan dana bantuan untuk korban bencana gempa bumi cianjur.", 
+          "Penggalangan dana bantuan ini dilaksanakan pada tanggal 24 November Hingga 2 Desember 2022, dengan melibatkan Peserta Didik, Guru Tenaga Pengajar, Staft sekolah, Alumni, hinggi Orang Tua/Wali Peserta didik SMK CIPTA SKILL Bandung, dan dengan hasil terkumpulnya sejuumlah uang dan pakaian layak pakai.",
+          "Dengan hal tersebut, pihak sekolah juga mendorong peserta didik untuk menumbuhkan rasa persaudaraan dalam berbangsa dan bertanah air, dan penerapan P5 (Profil Pelajar Pancasila) dalam kurikulum merdeka, dengan siswa melaksanakan salah satu point pada 45 butir pancasila yakni pada SILA KE-3 : Butir ke-1dan 2 yang berbunyi 'Mampu menempatkan persatuan, kesatuan serta kepentingan dan keselamatan bangsa dan negara sebagai kepentingan bersama di atas kepentingan pribadi dan golongan.'-butir ke-1, 'Sanggup dan rela berkorban untuk kepentingan negara dan bangsa apabila diperlukan.'-Butir ke-2.",
+          "Dan dana bantuan, yang berhasil di salurkan melalui posko penanggulangan bencana gempa bumi kabupaten cianjur yang bertempat di pendompo bupati cianjur, untuk selanjutmya akan dibagikan ke pada warga cianjur yang membutuhkan.",
+          "SMK CIPTA SKILL Bandung berterima kasih atas kerja sama dari semua pihak yang telah ikut berkontribusi di kegiatan SMK CIPTA SKILL PEDULI ini,",
+          "Dan kami Berterima kasih yang sebesar besarnya atas bantuan dari, Indonesian Starlet Club (ISC), Ikatan Apoteker Indonesia (IAI), dan Serta Bupati Kabupaten Cianjur, atas kerja samanya untuk proses penyaluran bantuan sosial korban gempa cianjur."
+        ]
+      },
+
+      {
+        "title": "JUMSIH (Jum'at Bersih) SMK CIPTA SKILL",
+        "category": "Kegiatan Siswa",
+        "srcImage": "images/portfolio/portfolio-6.png",
+        "description": [
+          "Sebagai salah satu SMK terbersih di Kota Bandung, SMK-CIPTA SKILL berkomitmen juga untuk mewujudkan lingkungan (luar) sekolah yang bersih.",
+          "Melalui Program Jumat Bersih (Jumsih), siswa SMK-CIPTA SKILL terjun langsung melakukan aksi kebersihan sekitar komplek sekolah/lingkungan masyarakat.",
+          "Harapannya akan terwujud lingkungan sekolah yang bersih sekaligus memberikan dukungan terhadap program Pemerintah Kota Bandung dalam memewujudkan lingkungan yang bersih dan sehat."
+      ]
+      }
+    ]
+  },
+
+  "team": {
+    "id": "team",
+    "title": "Alumni Cipta Skill",
+    "members": [
+      {
+        "name": "Antoni Sertiawan",
+        "srcAvatar": "images/avatars/person-1.png",
+        "role": "Backoffice Quality Control J & Pusat",
+        "quote": "Perpaduan Skill handal dan kepribadian unggul yang saya dapat selama belajar di SMK CIPTA SKILL menjadi modal utama saya berkarier di perusahaan ternama"
+      },
+
+      {
+        "name": "Nanda Sanyandari",
+        "srcAvatar": "images/avatars/person-2.png",
+        "role": "Business Consultan PT. Kontak Perkasa",
+        "quote": "SMK-CIPTA SKILL, mengajarkan saya untuk disiplin, pantang mengeluh, agar sukses dan benar-benar menyiapkan saya untuk siap bekerja"
+      },
+
+      {
+        "name": "Adlin Al Hapssah",
+        "srcAvatar": "images/avatars/person-3.png",
+        "role": "Staf Profesional Hospitality",
+        "quote": "Didikan yang berkepribadian unggul dan keahlian profesional telah membuka jalan untuk berkarier gemilang"
+      }
+    ]
+  },
+
+  "contact": {
+    "id": "contact",
+    "title": "Contact Us",
+
+    "placeholders": {
+      "name": "Your Name *",
+      "email": "Your Email *",
+      "subject": "Subject *",
+      "message": "Message *"
+    },
+
+    "button": {
+      "label": "Send Message",
+      "icon": "fa-solid fa-envelope me-2"
+    }
+  },
+
+  "footer": {
+    "location": {
+      "title": "Location",
+      "address": "Jln. Brigjend Katamso, Trs-Cisokan Sukaluyu I No. 1"
+    },
+
+    "links": {
+      "title": "Connect With Us",
+      "items": [
+        {"icon": "fa-brands fa-twitter", "href": "https://twitter.com/SMK_CIPTA_SKILL"},
+        {"icon": "fa-brands fa-facebook", "href": "https://www.facebook.com/smkciptaskill"},
+        {"icon": "fa-brands fa-instagram", "href": "https://www.instagram.com/smkciptaskill/?hl=id"},
+        {"icon": "fa-brands fa-youtube", "href": "https://www.youtube.com/@SMKCiptaSkillBandung"}
+      ]
+    },
+
+    "otherLinks": {
+      "title": "Other Links",
+      "items": [
+        {"label": "Privacy Policy", "href": "#"},
+        {"label": "Terms Of Use", "href": "#"}
+      ]
+    },
+
+    "copyright": ""
+  }
+}
